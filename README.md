@@ -1,4 +1,4 @@
-# Patient-Electronic-Health-Record-System
+# Patient Electronic Health Record System.
 
 # Objective:
 

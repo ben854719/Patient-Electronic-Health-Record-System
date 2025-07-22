@@ -6,13 +6,16 @@ This project enhances clinical decision-making by integrating AI-powered tools w
 
 # Key Features:
 
-•	🧪 Pandas (Data Extraction & Structuring):
+# Pandas (Data Extraction & Structuring):
 Extracts, analyzes, and cleans data from Health Canada’s drug approval datasets. Creates structured lists of approved medications for reference.
-•	🧠 PyTorch:
+
+# PyTorch:
 Employs deep learning to recommend optimal medications based on patient health profiles, supporting doctors with AI-informed treatment suggestions.
-•	📊 Matplotlib (Visual Analytics):
+
+# Matplotlib (Visual Analytics):
 Generates graphs that illustrate age-specific prescription trends and medication effectiveness. Assists doctors in understanding how treatments vary across age groups.
-•	📝 Agentic AI (Report Generation & Translation):
+
+# Agentic AI (Report Generation & Translation):
 Uses Langgraph and Gemini to create patient summaries and SOAP reports based on factors like the age, the gender, the race, the illness, and the income level. Automatically translates documentation into English or French depending on the location of the family physician in Canada.
 
 # Installation Requirements:

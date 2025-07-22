@@ -22,17 +22,17 @@ Uses Langgraph and Gemini to create patient summaries and SOAP reports based on 
 Ensure you have the following software and frameworks installed:
 
 # Python: Required for all major components.
-o	pandas
-o	matplotlib
-o	torch (PyTorch)
+- pandas
+- matplotlib
+- torch (PyTorch)
 
 # Agentic AI:
-•	Langgraph
-•	Gemini
+-	Langgraph
+-	Gemini
 
 # Data Referral:
 
 All drug-related decisions and insights are based on the public dataset provided by Health Canada:
 
-•	Dataset Title: Risk Management Plan Reviews for New Drug Decisions Completed Within Service Standards
-• Link: https://open.canada.ca/data/en/dataset/575504e5-0358-4309-b988-ca687b2f8b0a
+- Dataset Title: Risk Management Plan Reviews for New Drug Decisions Completed Within Service Standards
+- Link: https://open.canada.ca/data/en/dataset/575504e5-0358-4309-b988-ca687b2f8b0a

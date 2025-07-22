@@ -2,7 +2,7 @@
 
 # Objective:
 
-This initiative integrates advanced AI-driven technologies with comprehensive Canadian healthcare datasets to support more accurate and timely clinical decision-making. By employing intelligent data extraction and machine learning algorithms, the system analyzes patients’ demographics and medical profiles to recommend the most effective medications. It automatically generates detailed reports in either English or French, ensuring accessibility and transparency of the healthcare providers in Canada.
+This initiative integrates advanced AI-driven technologies with comprehensive Canadian healthcare datasets to support more accurate and timely clinical decision-making. By employing intelligent data extraction and machine learning algorithms, the system analyzes patients’ demographics and medical profiles to recommend the most effective medications. It automatically generates detailed reports in either English or French, empower doctors with personalized, data-informed insights that improve prescribing accuracy and patient outcomes.
 
 # Key Features:
 

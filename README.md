@@ -18,8 +18,6 @@ Generates graphs that illustrate age-specific prescription trends and medication
 # Agentic AI (Report Generation & Translation):
 Uses Langgraph and Gemini to create patient summaries and SOAP reports based on factors like the age, the gender, the race, the illness, and the income level. Automatically translates documentation into English or French depending on the location of the family physician in Canada.
 
-# Usage.
-
 # Installation Requirements:
 Ensure you have the following software and frameworks installed.
 

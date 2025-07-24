@@ -13,7 +13,7 @@ Extracts, analyzes, and cleans data from Health Canada’s drug approval dataset
 Employs deep learning to recommend optimal medications based on patient health profiles, supporting doctors with AI-informed treatment suggestions.
 
 # Seaborn:
-Seaborn is used to generate visually enriched statistical plots, enabling the doctors to explore age-based prescription patterns and uncover nuanced relationships between patient demographics and medication usage.
+Seaborn is used to generate visually enriched statistical plots, enabling the doctors to explore the age based prescription patterns and uncover nuanced relationships between patient demographics and medication usage.
 
 # Agentic AI (Report Generation & Translation):
 Uses Langgraph and Gemini to create patient summaries and SOAP reports based on factors like the age, the gender, the race, the illness, and the income level. Automatically translates documentation into English or French depending on the location of the family physician in Canada.
